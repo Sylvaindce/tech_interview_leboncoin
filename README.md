@@ -33,8 +33,8 @@
 Find the biggest square in a map
 
 ### Materials
-- Subject(https://github.com/Sylvaindce/tech_interview_leboncoin/materials/Subject_Exercice_Python_Algo_leboncoin.pdf)
-- Map Generator(https://github.com/Sylvaindce/tech_interview_leboncoin/materials/map_gen.py)
+- Subject(hhttps://github.com/Sylvaindce/tech_interview_leboncoin/tree/main/materials/Subject_Exercice_Python_Algo_leboncoin.pdf)
+- Map Generator(https://github.com/Sylvaindce/tech_interview_leboncoin/tree/main/materials/map_gen.py)
 
 ### Built With
 * [Python3](https://www.python.org/)
