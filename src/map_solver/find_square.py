@@ -124,7 +124,7 @@ class MapSolver:
         """
         Create Mask of the given map with the square size at this position
 
-                x1 x2
+            x1 x2
             -----
         y1 | 6  6
         y2 | 6  ?
@@ -138,7 +138,7 @@ class MapSolver:
          |    |
          c----d
 
-        Then at at the position [y2][x2] we can fit a square of size 7 and the known position of it
+        Then at the position [y2][x2] we can fit a square of size 7 and the known position of it
         is the right bottom corner (d).
 
         Save the position of the position and the maximum square size in self.__result = [y, x, square_size]
